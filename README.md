@@ -6,3 +6,4 @@
 - #### rag_lesson_3: 增加SentenceTransformer库加载嵌入模型的代码
 - #### rag_lesson_4: faiss变更为chromadb向量数据库的代码
 - #### rag_lesson_5: 增加混合检索的代码
+- #### rag_lesson_6: 增加重排序的代码
